@@ -1,0 +1,28 @@
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+  }
+  .onclick{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: column;
+  }
+  .cont{
+    width: 20vw;
+    background-color: rgb(102, 3, 82);
+    cursor: pointer;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    border-radius: 5px;
+    font-size: 30px;
+  }
+  .clickMe{
+    background-color: white;
+    width: 10vw;
+    color: black;
+    font-weight: 800;
+      }
